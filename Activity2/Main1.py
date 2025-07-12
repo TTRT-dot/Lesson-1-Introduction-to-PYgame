@@ -20,7 +20,7 @@ image1=pygame.image.load('fireball.png')
 #Set the size for the image
 DEFAULT_IMAGE_SIZE=(900,900)
 
-#Scale the image to your needed size
+#Scale the image to your needed
 image = pygame.transform.scale(image,DEFAULT_IMAGE_SIZE)
 image1 = pygame.transform.scale(image1,DEFAULT_IMAGE_SIZE)
 #Set a default position
